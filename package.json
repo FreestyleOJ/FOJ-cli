@@ -1,0 +1,23 @@
+{
+  "name": "foj-cli",
+  "version": "0.0.0",
+  "description": "cli for coj",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreestyleOJ/FOJ-cli.git"
+  },
+  "keywords": [
+    "cil",
+    "foj"
+  ],
+  "author": "sirius.caffrey@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FreestyleOJ/FOJ-cli/issues"
+  },
+  "homepage": "https://github.com/FreestyleOJ/FOJ-cli#readme"
+}
