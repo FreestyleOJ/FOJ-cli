@@ -1,8 +1,11 @@
 {
   "name": "foj-cli",
-  "version": "0.0.0",
-  "description": "cli for coj",
+  "version": "0.0.5",
+  "description": "cli for foj",
   "main": "index.js",
+  "bin": {
+    "foj": "./bin/cli.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/FreestyleOJ/FOJ-cli/issues"
   },
-  "homepage": "https://github.com/FreestyleOJ/FOJ-cli#readme"
+  "homepage": "https://github.com/FreestyleOJ/FOJ-cli#readme",
+  "devDependencies": {
+    "commander": "^2.9.0"
+  }
 }
