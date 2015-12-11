@@ -1,2 +1,2 @@
-# FOJ-cli
+# foj-cli
 npm install -g foj-cli
